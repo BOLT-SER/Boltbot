@@ -12,7 +12,7 @@
 <a href="##"><img title="PUBLIC-BOT" src="20220313_143457.jpg"></a>
 </p>
 <p align="center">
-  <a href="https://github.com/BOLT-SER"><img title="Developer" src="https://img.shields.io/badge/Author-Xeon-blue.svg?style=for-the-badge&logo=github" /></a>
+  <a href="https://github.com/BOLT-SER"><img title="Developer" src="20220313_143457.jpg" /></a>
 </p>
 <p align="center">
 <a href="#"><img title="BOLT" src="20220313_143457.jpg"></a>
@@ -33,9 +33,9 @@
 
 ## `SETTINGS`
 
-- CHANGE OWNER NUMBER [Here](https://github.com/DGXeon/Boltbot/blob/master/setting/setting.json#L6)
-- CHANGE OWNER NAME [Here](https://github.com/DGXeon/Boltbot/blob/master/setting/setting.json#L7)
-- CHANGE BOT NAME [Here](https://github.com/DGXeon/Boltbot/blob/master/setting/setting.json#L8)
+- CHANGE OWNER NUMBER [Here](https://github.com/BOLT-SER/Boltbot/blob/master/setting/setting.json#L6)
+- CHANGE OWNER NAME [Here](https://github.com/BOLT-SER/Boltbot/blob/master/setting/setting.json#L7)
+- CHANGE BOT NAME [Here](https://github.com/BOLT-SER/Boltbot/blob/master/setting/setting.json#L8)
 
 ## ` BUILDPACKS`
 
@@ -87,12 +87,12 @@ heroku/nodejs
 ## Connect With Me
 My Personal Chat👇
 <p align="center">
- <a href="https://wa.me/+917695878726"><img alt="WhatsApp Personal Chat" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=black"/></a>
+ <a href="https://wa.me/+917695878726"><img alt="WhatsApp Personal Chat" src="20220313_143457.jpg"/></a>
 </p>
 
 My Whatsapp Group👇
 <p align="center">
- <a href="https://chat.whatsapp.com/JKbplB5LAyYKQmbg8oAXrV"><img alt="WhatsApp Group" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=black"/></a>
+ <a href="https://chat.whatsapp.com/JKbplB5LAyYKQmbg8oAXrV"><img alt="WhatsApp Group" src="20220313_143457.jpg"/></a>
 </p>
 
 * [`My Youtube Channel`](https://youtube.com/channel/UCvAo9TZ0Pw9vrJ_0WYRyO3A)
