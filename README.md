@@ -29,7 +29,7 @@
 
 ## `CHANGE SESSION`
 
-[`Click Here`](https://github.com/BOLT-SER/DogeBot2/blob/master/session.json#L1)
+[`Click Here`](https://github.com/BOLT-SER/Boltbot/blob/master/session.json#L1)
 
 ## `SETTINGS`
 
