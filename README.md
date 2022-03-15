@@ -25,7 +25,7 @@
 [`2nd Install`](https://www.mediafire.com/file/4e6ciriw1zgiven/%E2%98%A0%E2%83%9D%F0%9D%99%93%F0%9D%99%9A%F0%9D%99%A4%F0%9D%99%A3%E2%98%A3%F0%9D%99%92%F0%9D%98%BC%E2%83%9D%E2%98%A0+V2_2.22.2.73.apk/file)
 
 ## `Scan QR Code For Session`
-[![Doge Bot](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@BOLT-SER/Bolt-Bot-Qr-Code-Generator?v=1)
+[![Doge Bot](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@BOLT-SER/Doge-Bot-Qr-Code-Generator?v=1)
 
 ## `CHANGE SESSION`
 
