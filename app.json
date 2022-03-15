@@ -2,7 +2,7 @@
   "name": "Boltbot",
   "description": "whatsapp bot build with nodejs",
   "repository": "https://github.com/BOLT-SER/Boltbot",
-  "logo": "https://pbs.twimg.com/media/Erh9GtGXYAETLkU?format=jpg&name=900x900",
+  "logo": "20220313_143457.jpg",
   "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation"],
   "buildpacks": [
     {
